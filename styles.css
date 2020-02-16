@@ -1,0 +1,27 @@
+.title{
+    color:magenta;
+}
+.num1{
+    background-color: orange;
+   color: teal;
+   font-size:40px;
+  
+}
+.num2{
+  background-color: pink;  
+  color:blue;
+font-size:40px;
+}
+.num3{
+    background-color: green;
+    color:red;
+    font-size:40px;
+}
+.pic{
+    display: flex; 
+    justify-content: center;
+}
+.answer{
+     display: flex; 
+    justify-content: center;
+}
